@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'https://pratikjoshiauxirem.github.io/ci5.github.io';
+    public $baseURL = 'http://localhost/';
 
     /**
      * --------------------------------------------------------------------------
